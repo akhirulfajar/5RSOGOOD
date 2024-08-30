@@ -17,4 +17,4 @@
 </ul>
 
 <h2>License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>. See the <code>LICENSE</code> file for more details.</p>
+<p>This project is licensed under the <strong>GNU General Public License v3.0</strong>. See the <code>LICENSE</code> file for more details.</p>
