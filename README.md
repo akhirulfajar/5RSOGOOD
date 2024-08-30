@@ -1,4 +1,4 @@
-<h1>5R SOGOOD Website Development - README</h1>
+<h1>5R SOGOOD Website Development</h1>
 
 <h2>Overview</h2>
 <p>Welcome to the 5R SOGOOD website development repository! This project aims to create a digital platform that supports the implementation and monitoring of the 5R program within the Department of Management & Human Resource Development. The website is designed to strengthen the culture of 5R (Sort, Set in Order, Shine, Standardize, Sustain) in the workplace by providing various information, applications, and interactive features that facilitate collaboration among employees.</p>
